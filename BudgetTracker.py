@@ -6,7 +6,7 @@ def add_income():
     print("income added::\n")
 
 def add_expense():
-    category=input("Enter category of income ")
+    category=input("Enter category of expense ")
     amount=float(input("Enter the amount of expense "))
     transactions.append({"type":"expense", "desc": category, "amount":amount})
     print("Expense recorded:: \n")
