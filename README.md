@@ -1,5 +1,5 @@
 # Mini_Python_Project_Collection
-This is a Mini Python Project Collection it Consists of 6 projects Employee Management System, Budget Tracker, Weather App, Robot Speaker, Pdf  Merger, Image Resizer
+This is a Mini Python Project Collection Video Explanation - <a href="https://www.linkedin.com/posts/anshprogrammer_python-programming-activity-7362455928207527936-IvIg?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlrQCgBJlIdPj0s2Rx7FxIB11A0tKoryNs">Video HERE ON Linkedin</a> it Consists of 6 projects Employee Management System, Budget Tracker, Weather App, Robot Speaker, Pdf  Merger, Image Resizer
 ---
 
 ## 📂 Projects Included
